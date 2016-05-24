@@ -2,7 +2,7 @@ body {
     font-family: Georgia, serif;
     font-size: 16px;
     background-color: #5171A5; 
-    color: #696969;
+    color: #E2EFDE;
     padding: 3px;
 }
 
@@ -35,11 +35,11 @@ ul#menu li a {
     background-color: #ffffff;
     padding: 10px 20px;
     text-decoration: none;
-    color: #696969;
+    color: #E2EFDE;
     border-radius: 4px 4px 0 0;
 }
 
 ul#menu li a:hover {
-    color: white;
-    background-color: black;
+    color: #E2EFDE;
+    background-color: #241E4E;
 }
