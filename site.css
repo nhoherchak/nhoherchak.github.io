@@ -19,7 +19,8 @@ h1 {
     border-bottom: 3px solid #241E4E;
     color: #87F5FB;
     font-size: 50px;
-    padding-left: 80px;
+    padding-right: 30px;
+    text-align: left;
 }
 
 ul#menu {
@@ -42,5 +43,5 @@ ul#menu li a {
 
 ul#menu li a:hover {
     color: #E2EFDE;
-    background-color: #241E4E;
+    background-color: #87F5FB;
 }
