@@ -1,7 +1,7 @@
 body {
-    font-family: "Trebuchet MS", Verdana, sans-serif;
+    font-family: Georgia, serif;
     font-size: 16px;
-    background-color: dimgrey; 
+    background-color: #5171A5; 
     color: #696969;
     padding: 3px;
 }
@@ -10,14 +10,14 @@ body {
     padding: 5px;
     padding-left:  15px;
     padding-right: 15px;
-    background-color: #ffffff;
+    background-color: #5171A5;
     border-radius: 0 0 5px 5px;
 }
 
 h1 {
-    font-family: Georgia, serif;
+    font-family: "Trebuchet MS", Verdana, sans-serif;
     border-bottom: 3px solid #cc9900;
-    color: #996600;
+    color: #87F5FB;
     font-size: 30px;
 }
 
