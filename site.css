@@ -1,9 +1,9 @@
 body {
     font-family: Georgia, serif;
-    font-size: 16px;
+    font-size: 26px;
     background-color: #5171A5; 
     color: #E2EFDE;
-    padding: 3px;
+    padding: 5px;
 }
 
 #main {
@@ -18,7 +18,7 @@ h1 {
     font-family: "Trebuchet MS", Verdana, sans-serif;
     border-bottom: 3px solid #241E4E;
     color: #87F5FB;
-    font-size: 30px;
+    font-size: 50px;
 }
 
 ul#menu {
