@@ -74,6 +74,14 @@ a:hover .caption {
     transition: all 1s linear;
 }​
 
+#ODDimage {
+    padding: 20px;
+}
+
+#EVENimage {
+    padding: 20px;
+}
+
 /* This isnt working...
 #ODDheader {
     text-align: right;
