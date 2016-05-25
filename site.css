@@ -40,31 +40,39 @@ h2 {
 #indextext {
     text-align: right;
     padding: 15px;
+    background-color: #8BBEB2;
 }
 
 #ODDheader {
     text-align: right;
     background-color: #8BBEB2;
-    width: 200px;
-    height: 400px;
+    width: 400px;
+    height: 650px;
+    float: left;
 }
 
 #ODDimage {
     background-color: #5171A5;
-    width: 600px;
+    width: 650px;
     padding: 5px;
+    height: 650px;
+    float: left;
 }
 
 #EVENheader {
     text-align: left;
     background-color: #5171A5;
-    width: 200px;
+    width: 400px;
+    height: 650px;
+    float: right;
 }
 
 #EVENimage {
     background-color: #8BBEB2;
-    width: 600px;
+    width: 650px;
     padding: 5px;
+    height: 650px;
+    float: right;
 }
 
 ul#menu {
