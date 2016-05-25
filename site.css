@@ -43,7 +43,7 @@ h2 {
     background-color: #8BBEB2;
 }
 
-#bluewoman {
+a {
     display: inline-block;
     position: relative;
 }
@@ -63,7 +63,7 @@ h2 {
     -moz-transition: all 1s linear;
     transition: all 1s linear;
 }
-bluewoman:hover .caption {
+a:hover .caption {
     opacity: 1;
     -webkit-transition: all 1s linear;
     -o-transition: all 1s linear;
