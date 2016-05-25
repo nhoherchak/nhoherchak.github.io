@@ -43,20 +43,22 @@ h2 {
     background-color: #8BBEB2;
 }
 
+/* This isnt working...
 #ODDheader {
     text-align: right;
     background-color: #8BBEB2;
     width: 400px;
     height: 650px;
     float: left;
+    padding: 20px;
 }
 
 #ODDimage {
     background-color: #5171A5;
     width: 650px;
-    padding: 5px;
     height: 650px;
     float: left;
+    padding: 20px;
 }
 
 #EVENheader {
@@ -65,15 +67,17 @@ h2 {
     width: 400px;
     height: 650px;
     float: right;
+    padding: 20px;
 }
 
 #EVENimage {
     background-color: #8BBEB2;
     width: 650px;
-    padding: 5px;
     height: 650px;
     float: right;
+    padding: 20px;
 }
+*/
 
 ul#menu {
     padding: 0;
