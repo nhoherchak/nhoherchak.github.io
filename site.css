@@ -63,7 +63,7 @@ h2 {
     -moz-transition: all 1s linear;
     transition: all 1s linear;
 }
-a:hover .caption {
+bluewoman:hover .caption {
     opacity: 1;
     -webkit-transition: all 1s linear;
     -o-transition: all 1s linear;
