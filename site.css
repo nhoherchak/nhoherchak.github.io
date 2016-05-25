@@ -23,6 +23,16 @@ h1 {
     text-align: right;
 }
 
+h2 {
+    font-family: "Trebuchet MS", Verdana, serif;
+    color: #E2EFDE;
+    font-size: 30px;
+}
+
+img {
+    text-align: right;
+}
+
 ul#menu {
     padding: 0;
     margin-bottom: 11px;
