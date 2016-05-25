@@ -21,6 +21,7 @@ h1 {
     font-size: 50px;
     padding-right: 30px;
     text-align: right;
+    padding-bottom: 10px;
 }
 
 h2 {
@@ -28,6 +29,42 @@ h2 {
     color: #E2EFDE;
     font-size: 30px;
     text-align: right;
+}
+
+#footer {
+    background-color: #241E4E;
+    text-align: center;
+    padding: 5px;
+}
+
+#indextext {
+    text-align: right;
+    padding: 15px;
+}
+
+#ODDheader {
+    text-align: right;
+    background-color: #8BBEB2;
+    width: 200px;
+    height: 400px;
+}
+
+#ODDimage {
+    background-color: #5171A5;
+    width: 600px;
+    padding: 5px;
+}
+
+#EVENheader {
+    text-align: left;
+    background-color: #5171A5;
+    width: 200px;
+}
+
+#EVENimage {
+    background-color: #8BBEB2;
+    width: 600px;
+    padding: 5px;
 }
 
 ul#menu {
