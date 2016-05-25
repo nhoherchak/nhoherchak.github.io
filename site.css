@@ -54,9 +54,11 @@ a {
     left: 0;
     right: 0;
     background-color: #333; /* for browsers that don't understand rgba() notation */
-    color: #f90;
+    color: #E2EFDE;
     font-weight: bold;
     line-height: 1.1em;
+    padding: 12px;
+    text-align: center;
     -webkit-transition: all 1s linear;
     -o-transition: all 1s linear;
     -ms-transition: all 1s linear;
