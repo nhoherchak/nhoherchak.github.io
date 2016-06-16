@@ -84,42 +84,6 @@ a:hover .caption {
     padding: 20px;
 }
 
-/* This isnt working...
-#ODDheader {
-    text-align: right;
-    background-color: #8BBEB2;
-    width: 400px;
-    height: 650px;
-    float: left;
-    padding: 20px;
-}
-
-#ODDimage {
-    background-color: #5171A5;
-    width: 650px;
-    height: 650px;
-    float: left;
-    padding: 20px;
-}
-
-#EVENheader {
-    text-align: left;
-    background-color: #5171A5;
-    width: 400px;
-    height: 650px;
-    float: right;
-    padding: 20px;
-}
-
-#EVENimage {
-    background-color: #8BBEB2;
-    width: 650px;
-    height: 650px;
-    float: right;
-    padding: 20px;
-}
-*/
-
 ul#menu {
     padding: 0;
     margin-bottom: 11px;
