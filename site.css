@@ -82,6 +82,7 @@ a:hover .caption {
 
 #ODDimage {
     padding: 20px;
+    display: inline-block;
 }
 
 #EVENimage {
