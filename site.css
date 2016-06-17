@@ -112,3 +112,30 @@ ul#menu li a:hover {
     color: #E2EFDE;
     background-color: #87F5FB;
 }
+
+/* trying new way to display captions */
+    .img-con {
+        position: relative;
+        display: inline-block;
+        background-color: #DDD;
+    }
+    .img-con img {
+        vertical-align: top;
+    }
+    .img-con p {
+        opacity: 0;
+        -webkit-transition: opacity 2s ease; transition: opacity 2s ease;
+        position: absolute;
+        bottom: 0;
+        top: auto;
+        left: 0;
+        right: 0;
+        margin: 0;
+        padding: 1em;
+        text-align: center;
+        color: #FFF;
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+    .img-con img:hover + p {
+        opacity: 1;
+    }
