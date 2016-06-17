@@ -116,10 +116,15 @@ ul#menu li a:hover {
 /* trying new way to display captions */
     .img-con {
         position: relative;
-        display: inline-block;
+        display: block;
+        width: 120px;
+        height: 120px;
         background-color: #DDD;
     }
     .img-con img {
+        display: block;
+        width: 100%;
+        height: 100%;
         vertical-align: top;
     }
     .img-con p {
