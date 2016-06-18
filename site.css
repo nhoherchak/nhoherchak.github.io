@@ -34,6 +34,13 @@ h2 {
     text-align: left;
 }
 
+h3 {
+    font-family: "Lato", serif;
+    color: #E2EFDE;
+    font-size: 26px;
+    text-align: left;
+}
+
 #footer {
     background-color: #241E4E;
     text-align: center;
@@ -113,7 +120,7 @@ ul#menu li a:hover {
     background-color: #87F5FB;
 }
 
-/* trying new way to display captions */
+/* trying new way to display captions
     .img-con {
         position: relative;
         display: block;
@@ -143,4 +150,40 @@ ul#menu li a:hover {
     }
     .img-con img:hover + p {
         opacity: 1;
-    }
+    } */
+
+/* Container trial for nice pages */
+
+.container {
+    position: relative;
+    width: 33%;
+    float: left;
+}
+
+.image{
+    float:left;
+    padding: 5px;
+}
+
+.image img {
+    width: 100%;
+    padding: 5px;
+}
+
+.title {
+    width: 30%;
+    position: absolute;
+    bottom: 0; left: 0;
+}
+
+.container2 {
+    position: relative;
+    width: 50%;
+    float: left;
+}
+
+.container1 {
+    position: relative;
+    width: 100%;
+    float: left;
+}
