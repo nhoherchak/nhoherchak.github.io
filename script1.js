@@ -6,6 +6,6 @@ document.getElementById("nav01").innerHTML =
 "<li><a href='index.html'>Home</a></li>" +
 "<li><a href='about.html'>About</a></li>" +
 "<li><a href='data.html'>UX Design</a></li>" +
-"<li><a href='graphicdesign.html'>Graphic Design</a></li>" +
+"<li><a href='design.html'>Graphic Design</a></li>" +
 "<li><a href='resume.html'>Resume</a></li>" +
 "</ul>";
