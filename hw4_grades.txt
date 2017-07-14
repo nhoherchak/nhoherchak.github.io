@@ -1,0 +1,21 @@
+#Problem 1: 10 
+#Problem 2.a: 10 
+#Problem 2.b: 8 didnt state minimum number of spanning vectors
+#Problem 2.c: 10 
+#Problem 2.d: 8 minor mistake in row reduction
+#Problem 3.a: 10 
+#Problem 3.b: 10 Note: Do I need to be describing my answer in more detail?
+#Problem 3.c: 10 
+#Problem 3.d: IDK I did this question by finding the transpose of the incidence matrix.  In OH, I specifically asked whether I should make the matrix negative since B = -F^T (from discussion) where F = incidence matrix and B = B matrix and after a length discussion, the TA said I should.  I dont think I should lose any points since the TA gave me incorrect information and am also kind of frustrated that the TA did so.
+#Problem 3.e: 10 See previous problem comment.  It messed up this part too since it was dependent on *d
+#Problem 3.f: 10 
+#Problem 3.g: 10 
+#Problem 3.h: 0 
+#Problem 3.i: 0 
+#Problem 4: 10 d was wrong - rest correct
+#Problem 5: 10 
+#Problem 6: 10 
+#Problem 7: 10 
+#Problem 8: 8 mistake in row reduction for part d
+#Problem 9: 8 mistake in angle for part b
+#Problem 10: 10 
