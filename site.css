@@ -161,6 +161,7 @@ ul#menu li a:hover {
     width: 50%;
     float: left;
     background-color: rgba(150,150,150,.5);
+    padding: 5px;
 }
 
 .container1 {
