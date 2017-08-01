@@ -40,6 +40,9 @@ h3 {
     font-size: 26px;
     text-align: left;
 }
+p {
+    background-color: rgba(150,150,150,0.4);
+}
 
 #footer {
     background-color: #241E4E;
