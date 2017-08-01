@@ -99,6 +99,9 @@ a:hover .caption {
     padding: 20px;
     display: inline-block;
 }
+#me {
+    border-radius: 100%;
+}
 
 #EVENimage {
     padding: 20px;
