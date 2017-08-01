@@ -67,6 +67,8 @@ a {
     display: inline-block;
     position: relative;
     padding: 20px;
+    text-decoration: none;
+    color: lightBlue;
 }
 .caption {
     opacity: 0;
@@ -135,6 +137,7 @@ ul#menu li a:hover {
     position: relative;
     width: 33%;
     float: left;
+    background-color: rgba(150,150,150,.5);
 }
 
 .image{
@@ -157,10 +160,12 @@ ul#menu li a:hover {
     position: relative;
     width: 50%;
     float: left;
+    background-color: rgba(150,150,150,.5);
 }
 
 .container1 {
     position: relative;
     width: 100%;
     float: left;
+    background-color: rgba(150,150,150,.5);
 }
