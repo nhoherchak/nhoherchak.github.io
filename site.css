@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
 @import url('https://fonts.googleapis.com/css?family=Lato');
 
+* {
+  box-sizing: border-box;
+}
+
 body {
     font-family: "Lato", sans-serif;
     /*font-family: 'Josefin Slab', serif;*/
@@ -108,10 +112,7 @@ a:hover .caption {
 }
 #me {
     border-radius: 100%;
-}
-
-#EVENimage {
-    padding: 20px;
+    display: block;
 }
 
 ul#menu {
