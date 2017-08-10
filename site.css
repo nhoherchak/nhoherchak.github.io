@@ -114,7 +114,8 @@ a:hover .caption {
     border-radius: 100%;
     display: block;
     margin: 0px auto3;
-    align: center;
+    align-content: center;
+    text-align: center;
 }
 
 ul#menu {
