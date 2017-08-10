@@ -113,6 +113,8 @@ a:hover .caption {
 #me {
     border-radius: 100%;
     display: block;
+    margin: 0px auto3;
+    align: center;
 }
 
 ul#menu {
