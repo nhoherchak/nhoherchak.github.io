@@ -1,0 +1,371 @@
+Experience
+
+##Projects
+
+California Community Colleges
+Fraud Ecosystem - Mitigation, Detection, Product Development
+July 2025 - March 2026 (9 months)
+
+Education Services
+
+Product Lead
+
+California Community Colleges
+Fraud Detection - Operationlize and Enhance
+April - June 2025 (3 months)
+
+Education Services
+
+Optum
+OptumServe - RHRP
+March 17 - March 26, 2025 (10 days)
+
+Professional, Scientific, and Technical Services
+
+Working on RFP and prework for project
+Created project plan, milestones and timelines for the design track of the project, which includes a team of 4 designers/SMEs
+Created staffing allocation, helped pick employees that would be appropriate to staff, created hours allocation for the team
+Created the internal kickoff deck
+Organized calls between Optum Serve and Pariveda and acted as the point of contact person - ran most meetings
+
+
+Data Platform + Quicksight
+September 2024 - January 2025 (5 months)
+
+Information
+
+UX Designer
+
+- Designed full reporting website for Washington State Use of Force Incidents where citizens and other persona groups can view Use of Force incidents, analyze them, etc
+- Conducted a Product Discovery Workshop where we did personas, HMWs and Ideation
+- Conducted prioritization working sessions to narrow down scope to what was possible in the limited time frame (~3 months)
+- Created hi-fi mockups for the Reporting Site compatible with wordpress (the engine selected for the site) to ensure easy integration
+- Provided guidance to the client on how to design their second, agency ingest application. As a result of this guidance and successful work, I was able to win the design work for this application at the end of my first role on the project
+- Created Icons for the second application
+- Made updates to the WADEPS logo for the client
+- Created hi-fi mockups for the Agency Ingestion application
+- Created prototype from hifi mockups which the client used for his demo to the AGO (attorney generals office, the client's client)
+
+Figma; High Fidelity Mockups; Iconography; Logo Design; Sketch; User Experience; user interface; UX Personas
+
+EDF Renewables
+Orca Migration - Iteration 1
+December 4, 2024 (1 day)
+
+Utilities
+
+Deck Design
+
+Worked with existing project team to create a more visually cohesive and flowing deck
+
+design; Design Advisory; UX Design
+
+Zavikon
+Autism Speaks - Job Portal - Discovery
+May - July 2024 (3 months)
+
+Professional, Scientific, and Technical Services
+
+UX Designer and Project Manager
+
+- Conducted user interviews with folks with Autism, Caregivers of those with Autism and Employers that want/have autistic employees
+- Conducted Product Discovery Workshop with client where we reviewed the product mission, goals and personas. We did HMWs and some ideation exercises. We created the customer journeys for employers and autistic folks/caregivers, and the blueprints to understand the behind the scenes action and tech needed.
+- Conducted prioritization working sessions to identify features needed and feasible for the MEP - Minimum essential product
+- Created user flows for all the necessary application workflows (e.g. searching for job, applying to job, submitting application follow up, etc)
+- Created hifi mockups of the entire application with over 8 workflows
+- Bonus gift: created a prototype for the application for Zavikon to use to demo to funders
+
+Customer Journeys; FigJam; Figma; Miro; Product Discovery Workshop; prototyping; service blueprint; UI Design; UI Prototype; UX Design; UX Personas; workshop design; workshop execution; Workshop Facilitation
+
+
+Operations Center GenAI Pilot Project
+April 1 - April 11, 2024 (11 days)
+
+Agriculture, Forestry, Fishing and Hunting
+
+UX Designer
+
+- designed POC GenAI Chat Agent screens for John Deere pilot program
+- worked with client to refine the designs
+- helped team with implementing in React
+
+Figma; UI Design; UI/UX Design; UX
+
+
+CVML Bring Your Own Camera
+February - March 2024 (2 months)
+
+Information
+
+Front End Developer
+
+Computer Vision Machine Learning
+
+
+DeereAI Code Interpreter
+November 2023 - February 2024 (4 months)
+
+Agriculture, Forestry, Fishing and Hunting
+
+Worked on the CVML project which was a separate project: computer vision machine learning for JD factories to check for defects etc and the UI tool for different factories to use the CVML service
+React front end development
+managing difficult people
+As a result of my work, JD agreed to roll on 3 more pariveda people to our team
+helped JD understand they had a difficult employee who was making their own employees work much harder and more unpleasant - as they had confided in me. The buyer and her boss really appreciated us letting him know and helping to make their project management run more smoothly and reasonably
+
+DifficultConversations; React
+
+
+CX Seamless Journey Map Design
+August - November 2023 (3 months)
+
+Utilities
+
+Product Designer
+
+Customer Journeys; journey mapping; Personas; Product Discovery Workshop; UX Personas
+
+
+CX Digital Perspective
+August 3 - August 11, 2023 (9 days)
+
+Utilities
+
+
+FY23 - CX - GXP Website Modification & Maintenance
+March 22 - April 17, 2023 (27 days)
+
+Manufacturing
+
+Senior UX Designer
+
+- Conducted competitive landscape analysis study of various car brands for Toyota
+- Presented suggestions to improve their luxury brand appeal
+
+Competitive Analysis; UCD; User Interviews; User Research
+
+First Republic Bank
+Professional Loan Program Portal - Design Phase
+October 2022 - January 2023 (3 months)
+
+Finance and Insurance
+
+UX Lead
+
+Balsamiq; Design Direction; Design Sprint; Figma; Sitemap; User Experience; User Flows; User Interviews; User Stories; User Story Mapping; User Story Workshops; UX Design
+
+First Republic Bank
+PLP Firm Portal Envisioning
+September 12 - October 27, 2022 (46 days)
+
+Finance and Insurance
+
+UX Designer
+
+Purpose Centered Design; Purpose Centered Design Workshop; User Interviews; UX Design; UX Personas; UX Research
+
+
+2022-PI13-14 - Web & Salesforce
+July 18 - August 12, 2022 (26 days)
+
+Retail Trade
+
+front end development on web team
+implemented new features like single page checkout, video, and integrated new features like Attentive (messaging platform)
+
+attentive; Contentful; Figma; Heroku; imgix; pi planning; React; Segment
+
+
+2022-PI13 - Web & Salesforce
+April - July 2022 (4 months)
+
+Retail Trade
+
+Front End Developer
+
+attentive; Contentful; Figma; Heroku; imgix; Node.js; React; Segment
+
+
+2022-PI12 - Web & Salesforce
+February - April 2022 (3 months)
+
+Retail Trade
+
+Front End Developer
+
+Figma; Heroku; imgix; Performance Testing; React
+
+
+EOFY Development
+January 4 - January 31, 2022 (28 days)
+
+Retail Trade
+
+Front End Developer
+
+Figma; Heroku; Performance Testing; React
+
+
+Web Development
+May - December 2021 (8 months)
+
+Retail Trade
+
+Front End Developer
+
+Heroku; imgix; Performance Testing; React
+
+
+SaaS Customer Journey Mapping and Business Process Reengineering
+January - April 2021 (4 months)
+
+Manufacturing
+
+UX Designer & CX Analyst
+
+- Interviewed users of the three different products to understand their process and frustrations
+- Conducted a problem statement workshop
+- Created 3 customer journey maps, 1 for each group
+- Created a unified journey from the three to develop their new unified brand approach
+
+Customer Journeys; journey mapping; Problem Statement Workshop; User Interviews
+
+
+NID Business Engagement Strategy
+November 2020 - January 2021 (2 months)
+
+Manufacturing
+
+UX Designer & CX Analyst
+
+- Conducted a heuristic analysis assessment of Newell brands internal tool
+- Interviewed users of the tool to understand what they needed and what was frustrating
+- Identified and presented recommendations to the team on how they could save themselves time and make their tool more helpful
+
+Customer Journeys; Heuristic Evaluation; journey mapping; nielson heuristics; usability heuristics; User Interviews
+
+
+AT&T Video Website Redesign - Exploration & Definition
+October 12 - November 20, 2020 (40 days)
+
+Information
+
+UX Designer
+
+Conducted landscape and competitive research
+Created lofi sketches to hi-fi mockups, used user testing tools to get feedback from real people
+Established the brand color palette for DTV Stream, their new product this website was for
+Conducted frequent design review sessions with the DTV team
+Created and presented fully clickable UI prototype
+
+Figma; Interactive Prototype; Invision; prototyping; UCD; Usability Testing; UX
+
+
+Apollo Product Design System - Phase 3
+July - October 2020 (3 months)
+
+Wholesale Trade
+
+Front End Developer
+
+Implemented a AAA accessible design system in react components and storybook in order to create a unified design system for ABC
+
+Accessibility; design system; React; SASS; Typescript
+
+
+Web - 2020.PI2
+April - July 2020 (4 months)
+
+Information
+
+Software Engineer
+
+Worked in collaboration with a client team to create new features for Venmo Web and resolve existing issues with the site. Worked to help migrate the existing site to a new application to improve functionality and update technologies. Created a UI library collaboratively with stackable components. Technologies used include: React, Typescript, Material UI, python, and some Handlebars, Django and other legacy languages.
+
+Material Design; Python; React; Typescript
+
+
+Web - PI3
+January - March 2020 (3 months)
+
+Information
+
+Software Engineer
+
+Worked in collaboration with a client team to create new features for Venmo Web and resolve existing issues with the site. Technologies used include: React, Typescript, Material UI, python, and some Handlebars, Django and other legacy languages.
+
+django; MaterialUI; React; Typescript
+
+
+Venmo.com Modernization/Re-Write
+September 2019 - January 2020 (5 months)
+
+Information
+
+Software Engineer
+
+Worked with a client team to resolve existing issues with the site and create new content for marketing. Technologies used include: React, Typescript, Material UI, python, and some Handlebars, Django and other legacy languages.
+
+Django REST Framework; Handlebar.js; MaterialUI; Python; React; Typescript
+
+
+PETE Allocations UCD & UI Re-engineering
+March - August 2019 (6 months)
+
+Retail Trade
+
+UX Lead and Software Engineer
+
+Created and conducted UX workshops to best understand our users need. Synthesized this information to design mockups and created feedback cycles to ensure our mockups best met users needs. Worked with team to implement these designs using the principles of atomic design and scope the workload of particular features to make sure we were aligned with our stakeholders expectations.
+
+Worked to develop a highly visual planning tool for a major retail corporation.
+
+Gained experience with technologies such as JavaScript, React, React Hooks, Typescript and Material UI.
+
+Practiced agile development and coached others on the process
+
+Worked with client and Pariveda team, technical team and additional resources to gather requirements and understand limitations.
+
+Led several user centered design workshops with stakeholders and the larger team to find the best design for the application.
+
+Designed wireframes for the application that the team worked to implement
+
+Managed scope change based on the outputs of user centered design
+
+Coached a client engineer with little experience with the technology platform, who became key contributor to the solution.
+
+Hosted a “Lunch and Learn” on how the team used user centered design to generate an application that actually does what users want it to do and is highly accepted by users and stakeholders alike.
+
+Designed our API architecture solution based on pre-existing limitations and best practices.
+
+Balsamiq; Material Design; React; UX; Wireframing
+
+
+PETE Vendor Managed Inventory
+February 2018 - March 2019 (1 year 1 month)
+
+Retail Trade
+
+Software Engineer and UX Designer
+
+Created VMI Application and held UX workshops as well as created prototypes for the Allocation UI Migration project for a different team at GAP to show them the value of UCD.
+Developed an internal Java Batch Spring Boot application that reorders all of the basic items for a major retail corporation.
+
+Gained experience with technologies such as Java, Spring Boot, Apigee, Splunk and Jenkins as well as agile development processes.
+
+Acted as the Subject Matter Expert for Splunk and Apigee for several months as it was rolling out in the organization.
+
+Coached an engineer who was new to the project and technology stack, who quickly began contributing to the solution.
+
+Hosted a session on “Splunk” to another client team that was getting started with the tool.
+
+Coached several client engineers on how to set up Apigee for their applications and how to create queries for Splunk.
+
+Apigee; Azure; Design Thinking; Java; Java Spring; Jenkins; Jenkins DSL; Spring Boot; UCD; UI Prototype; UX
+
+## Pursuits
+University of California - Los Angeles
+AWS UCLA MBA Career Pathing MLP
+February - September 2023 (7 months)
+
+Education Services

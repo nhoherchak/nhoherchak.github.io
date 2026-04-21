@@ -1,0 +1,29 @@
+{
+  "name": "nhoherchak.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build:css": "npx @tailwindcss/cli -i ./src/css/input.css -o ./src/css/site.css",
+    "watch:css": "npx @tailwindcss/cli -i ./src/css/input.css -o ./src/css/site.css --watch",
+    "build:11ty": "npx @11ty/eleventy",
+    "dev": "concurrently \"npm run watch:css\" \"npx @11ty/eleventy --serve\"",
+    "build": "npm run build:css && npm run build:11ty"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhoherchak/nhoherchak.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhoherchak/nhoherchak.github.io/issues"
+  },
+  "homepage": "https://github.com/nhoherchak/nhoherchak.github.io#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "@tailwindcss/cli": "^4.1.18",
+    "concurrently": "^9.2.1",
+    "tailwindcss": "^4.1.18"
+  }
+}
