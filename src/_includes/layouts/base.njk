@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title | default("Natasha Hoherchak") }}</title>
+  <link href="/css/site.css" rel="stylesheet">
+</head>
+<body class="bg-white text-gray-900 font-[Inter,sans-serif] antialiased">
+
+  <header class="max-w-3xl mx-auto px-6 py-8 flex justify-between items-center">
+    <a href="/" class="text-lg font-semibold tracking-tight text-gray-900 hover:text-gray-600 transition-colors">Natasha Hoherchak</a>
+    <nav class="flex gap-6 text-sm">
+      <a href="/" class="text-gray-500 hover:text-gray-900 transition-colors">Home</a>
+      <a href="/resume/" class="text-gray-500 hover:text-gray-900 transition-colors">Resume</a>
+    </nav>
+  </header>
+
+  <main class="max-w-3xl mx-auto px-6">
+    {{ content | safe }}
+  </main>
+
+  <footer class="max-w-3xl mx-auto px-6 py-12 mt-16 border-t border-gray-200">
+    <p class="text-sm text-gray-400">&copy; {% year %} Natasha Hoherchak</p>
+  </footer>
+
+</body>
+</html>
